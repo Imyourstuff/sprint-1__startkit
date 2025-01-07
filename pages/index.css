@@ -1,0 +1,54 @@
+/*Description*/ @import url(../blocks/description/decription.css);
+
+
+/*Digits*/ @import url(../blocks/digits/digits.css);
+
+
+/*Feynman*/ @import url(../blocks/feynman/feynman.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__png/feynman__png.css);
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
+
+/*Footer*/ @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__columns/__content/_author/footer__columns__content_author.css);
+@import url(../blocks/footer/__columns/__content/_copyright/footer__columns__content_copyright.css);
+@import url(../blocks/footer/__columns/__heading/footer__columns__heading.css);
+@import url(../blocks/footer/__columns/__link/footer__columns__link.css);
+@import url(../blocks/footer/__columns/__links/_social-icon/footer__columns__links_social-icon.css);
+@import url(../blocks/footer/__columns/__links/footer__columns__links.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+
+/*Header*/ @import url(../blocks/header/header.css);
+@import url(../blocks/header/__illustration/header__illustration.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo/_place/header__logo_place.css);
+@import url(../blocks/header/__square-pic/header__square-pic.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__subtitle/_link/header__subtitle_link.css);
+@import url(../blocks/header/__title/header__title.css);
+
+/*Kaufman*/ @import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+
+/*Page*/ @import url(../blocks/page/page.css);
+
+/*Section*/ @import url(../blocks/section/__subtitle/section__subtitle.css);
+@import url(../blocks/section/__subtitle/_theme/section__subtitle_theme_dark.css);
+@import url(../blocks/section/__title/_theme/section__title_theme_dark.css);
+@import url(../blocks/section/__title/section__title.css);
+
+
+/*Table*/ @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__row/_theme/table__row_theme_dark.css);
+@import url(../blocks/table/__row/table__row.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/table.css);
+
+/*Two-columns*/ @import url(../blocks/two-columns/__brief/two-columns__brief.css);
+@import url(../blocks/two-columns/two-columns.css);
+@import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
+@import url(../blocks/two-columns/__p/two-columns__p.css);
+@import url(../blocks/two-columns/__p/_span-accent/two-columns__p_span-accent.css);
