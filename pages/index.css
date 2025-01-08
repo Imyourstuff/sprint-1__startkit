@@ -13,13 +13,13 @@
 @import url(../blocks/feynman/__title/feynman__title.css);
 
 /*Footer*/ @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__columns/__content/_author/footer__columns__content_author.css);
-@import url(../blocks/footer/__columns/__content/_copyright/footer__columns__content_copyright.css);
-@import url(../blocks/footer/__columns/__heading/footer__columns__heading.css);
-@import url(../blocks/footer/__columns/__link/footer__columns__link.css);
-@import url(../blocks/footer/__columns/__links/_social-icon/footer__columns__links_social-icon.css);
-@import url(../blocks/footer/__columns/__links/footer__columns__links.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__heading/footer__heading.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__links/_social-icon/footer__links_social-icon.css);
 
 /*Header*/ @import url(../blocks/header/header.css);
 @import url(../blocks/header/__illustration/header__illustration.css);
