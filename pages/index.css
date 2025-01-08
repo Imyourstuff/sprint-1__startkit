@@ -3,6 +3,8 @@
 
 /*Digits*/ @import url(../blocks/digits/digits.css);
 
+@import url(../blocks/section/section.css);
+
 
 /*Feynman*/ @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
@@ -26,7 +28,7 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
  @import url(../blocks/rotation/rotation_square.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
-@import url(../blocks/header/__subtitle/_link/header__subtitle_link.css);
+@import url(../blocks/header/__subtitle-link/header__subtitle-link.css);
 @import url(../blocks/header/__title/header__title.css);
 
 /*Kaufman*/ @import url(../blocks/kaufman/kaufman.css);
@@ -52,14 +54,14 @@
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__p/two-columns__p.css);
-@import url(../blocks/two-columns/__p/_span-accent/two-columns__p_span-accent.css);
+@import url(../blocks/two-columns/__p-span/two-columns__p-span.css);
 
 /*Techniques*/ @import url(../blocks/techniques/techniques.css);
-@import url(../blocks/techniques/__cards/__item/_description/techniques__cards__item_description.css);
-@import url(../blocks/techniques/__cards/__item/_image/techniques__cards__item_image.css);
-@import url(../blocks/techniques/__cards/__item/_title/techniques__cards__item_title.css);
-@import url(../blocks/techniques/__cards/__item/techniques__cards__item.css);
-@import url(../blocks/techniques/__cards/techniques__cards.css);
+@import url(../blocks/cards/__description/cards__description.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/cards.css);
 
 /*Video*/ @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
